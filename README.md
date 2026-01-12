@@ -1,4 +1,4 @@
-# Library Management System (LibMgmt109)
+# Library Management System - backend
 
 A comprehensive Spring Boot REST API for managing library operations including books, members, staff, and lending transactions.
 
